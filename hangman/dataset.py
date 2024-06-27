@@ -1,0 +1,16 @@
+cricketers = ['viratkohli', 'stevesmith', 'kanewilliamson', 'joeroot', 'patcummins', 'jaspritbumrah', 'benstokes',
+              'babarazam', 'rashidkhan', 'kagisorabada', 'davidwarner'
+              , 'trentboult', 'rohitsharma', 'marnuslabuschagne', 'mitchellstarc', 'ravindrajadeja', 'andyle',
+              'quintondekock', 'shaheenafridi', 'shakibalhasan', 'hardikpandya', 'tomlatham',
+              'rishabhpant', 'josbuttler', 'suryakumaryadav', 'ravichandranashwin', 'fafduplessis', 'abdevilliers',
+              'mohammedshami', 'samcurran', 'krunalpandya', 'henrichnortje', 'lockieferguson', 'prithvishaw',
+              'rahulchahar', 'nicholaspooran', 'craigbrathwaite', 'markwood', 'kuldeepyadav', 'rassievanderdussen',
+              'davidmiller', 'umranmalik', 'kemarroach', 'mahmudullah', 'sanjusamson', 'dushmanthachameera', 'litondas',
+              'shanemcclanahan', 'jofraarcher', 'harrybrook', 'adamzampa', 'timseifert', 'ishankishan', 'tomcurran',
+              'alexhales', 'mattparkinson', 'shubmangill', 'devduttpadikkal', 'kylejamieson', 'keeganjennings',
+              'dwainepretorius', 'tamimiqbal', 'arshdeepsingh', 'oshanthomas', 'khaleelahmed', 'ajinkyarahane',
+              'dineshkarthik', 'deeparichahar', 'navdeepsaini', 'dhananjayadesilva', 'nuwanpradeep', 'hanumavihari',
+              'ruturajgaikwad', 'mayankagarwal', 'shreyasiyer', 'josbuttler', 'jasonroy', 'adamsampra', 'jamesanderson',
+              'stuartbroad', 'timpaine', 'naseemshah', 'harbhajansingh', 'angelomathews', 'sureshraina', 'rosstaylor',
+              'shehopee', 'ushoddarshana', 'mehidihasanmiraz', 'tahirkhandha', 'brendonmccullum', 'msdhoni',
+              'abhisheksharma', 'pierregreame', 'mohammadamir']
